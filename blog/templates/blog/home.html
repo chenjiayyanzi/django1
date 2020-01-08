@@ -5,6 +5,11 @@
     <title>Hello Blog</title>
 </head>
 <body>
-
+<h1>Here is blog page</h1>
+{% for post in posts1 %}
+    <h2>{{ post.title }}</h2>
+    By {{ post.author }} at {{ post.post_date }}
+    <p>{{ post.content }}</p>
+{% endfor %}
 </body>
 </html>
