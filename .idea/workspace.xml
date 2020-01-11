@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="d3482d12-ce33-4778-8864-41394f59e571" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register/templates/register/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/register/templates/register/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/register/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -127,7 +133,8 @@
       <workItem from="1578404846452" duration="9184000" />
       <workItem from="1578575032423" duration="5609000" />
       <workItem from="1578588557746" duration="966000" />
-      <workItem from="1578674598083" duration="1237000" />
+      <workItem from="1578674598083" duration="1728000" />
+      <workItem from="1578758567372" duration="3068000" />
     </task>
     <servers />
   </component>
@@ -139,26 +146,26 @@
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state x="104" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.709@0.23.1280.709" timestamp="1578674647205" />
-    <state width="1238" height="174" key="GridCell.Tab.0.bottom" timestamp="1578675326006">
+    <state width="1238" height="174" key="GridCell.Tab.0.bottom" timestamp="1578759945505">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1238" height="263" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1578588535563" />
-    <state width="1238" height="174" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1578675326006" />
-    <state width="1238" height="174" key="GridCell.Tab.0.center" timestamp="1578675325995">
+    <state width="1238" height="174" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1578759945505" />
+    <state width="1238" height="174" key="GridCell.Tab.0.center" timestamp="1578759945504">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1238" height="263" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1578588535562" />
-    <state width="1238" height="174" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1578675325995" />
-    <state width="1238" height="174" key="GridCell.Tab.0.left" timestamp="1578675325992">
+    <state width="1238" height="174" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1578759945504" />
+    <state width="1238" height="174" key="GridCell.Tab.0.left" timestamp="1578759945503">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1238" height="263" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1578588535561" />
-    <state width="1238" height="174" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1578675325992" />
-    <state width="1238" height="174" key="GridCell.Tab.0.right" timestamp="1578675326004">
+    <state width="1238" height="174" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1578759945503" />
+    <state width="1238" height="174" key="GridCell.Tab.0.right" timestamp="1578759945504">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1238" height="263" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1578588535562" />
-    <state width="1238" height="174" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1578675326004" />
+    <state width="1238" height="174" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1578759945504" />
     <state width="1238" height="263" key="GridCell.Tab.1.bottom" timestamp="1578588535566">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -179,10 +186,10 @@
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state x="149" y="23" width="982" height="709" key="SettingsEditor/0.23.1280.709@0.23.1280.709" timestamp="1578589022872" />
-    <state x="319" y="210" key="com.intellij.ide.util.TipDialog" timestamp="1578674611600">
+    <state x="319" y="210" key="com.intellij.ide.util.TipDialog" timestamp="1578758574004">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
-    <state x="319" y="210" key="com.intellij.ide.util.TipDialog/0.23.1280.709@0.23.1280.709" timestamp="1578674611600" />
+    <state x="319" y="210" key="com.intellij.ide.util.TipDialog/0.23.1280.709@0.23.1280.709" timestamp="1578758574004" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/django_project$manage.coverage" NAME="manage Coverage Results" MODIFIED="1578405422698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
