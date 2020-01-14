@@ -2,13 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3482d12-ce33-4778-8864-41394f59e571" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/register/migrations/0001_initial.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/register/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/register/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/register/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register/templates/register/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/register/templates/register/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register/templates/register/logout.html" beforeDir="false" afterPath="$PROJECT_DIR$/register/templates/register/logout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register/templates/register/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/register/templates/register/profile.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/register/templates/register/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/register/templates/register/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/register/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/register/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +29,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -43,7 +51,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -134,7 +142,11 @@
       <workItem from="1578575032423" duration="5609000" />
       <workItem from="1578588557746" duration="966000" />
       <workItem from="1578674598083" duration="1728000" />
-      <workItem from="1578758567372" duration="3068000" />
+      <workItem from="1578758567372" duration="3448000" />
+      <workItem from="1578763435384" duration="63000" />
+      <workItem from="1578763649632" duration="9000" />
+      <workItem from="1578932122761" duration="4501000" />
+      <workItem from="1578996250793" duration="1815000" />
     </task>
     <servers />
   </component>
@@ -146,26 +158,26 @@
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state x="104" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.709@0.23.1280.709" timestamp="1578674647205" />
-    <state width="1238" height="174" key="GridCell.Tab.0.bottom" timestamp="1578759945505">
+    <state width="1238" height="174" key="GridCell.Tab.0.bottom" timestamp="1578989529145">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1238" height="263" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1578588535563" />
-    <state width="1238" height="174" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1578759945505" />
-    <state width="1238" height="174" key="GridCell.Tab.0.center" timestamp="1578759945504">
+    <state width="1238" height="174" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1578989529145" />
+    <state width="1238" height="174" key="GridCell.Tab.0.center" timestamp="1578989529144">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1238" height="263" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1578588535562" />
-    <state width="1238" height="174" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1578759945504" />
-    <state width="1238" height="174" key="GridCell.Tab.0.left" timestamp="1578759945503">
+    <state width="1238" height="174" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1578989529144" />
+    <state width="1238" height="174" key="GridCell.Tab.0.left" timestamp="1578989529144">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1238" height="263" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1578588535561" />
-    <state width="1238" height="174" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1578759945503" />
-    <state width="1238" height="174" key="GridCell.Tab.0.right" timestamp="1578759945504">
+    <state width="1238" height="174" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1578989529144" />
+    <state width="1238" height="174" key="GridCell.Tab.0.right" timestamp="1578989529145">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1238" height="263" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1578588535562" />
-    <state width="1238" height="174" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1578759945504" />
+    <state width="1238" height="174" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1578989529145" />
     <state width="1238" height="263" key="GridCell.Tab.1.bottom" timestamp="1578588535566">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -182,14 +194,18 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="263" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1578588535565" />
-    <state x="149" y="23" width="982" height="709" key="SettingsEditor" timestamp="1578589022872">
+    <state x="149" y="23" width="982" height="709" key="SettingsEditor" timestamp="1578936290874">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
-    <state x="149" y="23" width="982" height="709" key="SettingsEditor/0.23.1280.709@0.23.1280.709" timestamp="1578589022872" />
-    <state x="319" y="210" key="com.intellij.ide.util.TipDialog" timestamp="1578758574004">
+    <state x="149" y="23" width="982" height="709" key="SettingsEditor/0.23.1280.709@0.23.1280.709" timestamp="1578936290874" />
+    <state x="319" y="210" key="com.intellij.ide.util.TipDialog" timestamp="1578996267181">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
-    <state x="319" y="210" key="com.intellij.ide.util.TipDialog/0.23.1280.709@0.23.1280.709" timestamp="1578758574004" />
+    <state x="319" y="210" key="com.intellij.ide.util.TipDialog/0.23.1280.709@0.23.1280.709" timestamp="1578996267181" />
+    <state x="306" y="23" width="667" height="709" key="find.popup" timestamp="1578948905357">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="306" y="23" width="667" height="709" key="find.popup/0.23.1280.709@0.23.1280.709" timestamp="1578948905357" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/django_project$manage.coverage" NAME="manage Coverage Results" MODIFIED="1578405422698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
