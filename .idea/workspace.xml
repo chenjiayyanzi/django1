@@ -3,12 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="d3482d12-ce33-4778-8864-41394f59e571" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/templates/blog/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/register/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/register/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/register/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/register/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/register/templates/register/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/register/templates/register/profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/register/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/register/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/default.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/default.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -139,7 +140,7 @@
       <workItem from="1578763649632" duration="9000" />
       <workItem from="1578932122761" duration="4501000" />
       <workItem from="1578996250793" duration="2563000" />
-      <workItem from="1579011489455" duration="2356000" />
+      <workItem from="1579011489455" duration="7820000" />
     </task>
     <servers />
   </component>
@@ -151,26 +152,26 @@
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state x="104" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.709@0.23.1280.709" timestamp="1578674647205" />
-    <state width="1238" height="174" key="GridCell.Tab.0.bottom" timestamp="1579010551052">
+    <state width="1238" height="174" key="GridCell.Tab.0.bottom" timestamp="1579181513198">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1238" height="263" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1578588535563" />
-    <state width="1238" height="174" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1579010551052" />
-    <state width="1238" height="174" key="GridCell.Tab.0.center" timestamp="1579010551051">
+    <state width="1238" height="174" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1579181513198" />
+    <state width="1238" height="174" key="GridCell.Tab.0.center" timestamp="1579181513197">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1238" height="263" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1578588535562" />
-    <state width="1238" height="174" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1579010551051" />
-    <state width="1238" height="174" key="GridCell.Tab.0.left" timestamp="1579010551050">
+    <state width="1238" height="174" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1579181513197" />
+    <state width="1238" height="174" key="GridCell.Tab.0.left" timestamp="1579181513196">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1238" height="263" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1578588535561" />
-    <state width="1238" height="174" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1579010551050" />
-    <state width="1238" height="174" key="GridCell.Tab.0.right" timestamp="1579010551051">
+    <state width="1238" height="174" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1579181513196" />
+    <state width="1238" height="174" key="GridCell.Tab.0.right" timestamp="1579181513197">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1238" height="263" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1578588535562" />
-    <state width="1238" height="174" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1579010551051" />
+    <state width="1238" height="174" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1579181513197" />
     <state width="1238" height="263" key="GridCell.Tab.1.bottom" timestamp="1578588535566">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
